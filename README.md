@@ -1,4 +1,4 @@
-### Hi there 👋
+<font size="2"> ### Hi there 👋</font>
 
 * 🔭 I’m currently working on "front-end web development" field with "html-css-js".
 * 🌱 I’m currently learning "react".
