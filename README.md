@@ -4,8 +4,8 @@
 * 📫 Contact me on instagram.com/ulassacli
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
 
-* I always wanted to create the origin. Sometimes being copycat is okay but creativity is a must for me
 * Studying for a non tech-field degree and still perfectly fine to create or manipulate the digital world, as it should be. It's all about what you want, all about your mindset, focus, commitment. Not about your personal status, degree, field, age or anything like that and i'm here to prove that
+* I always wanted to create the origin. Sometimes being copycat is okay but creativity is a must for me
 
 
 
