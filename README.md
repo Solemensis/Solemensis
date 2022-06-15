@@ -1,7 +1,7 @@
 # --- Hi
 * 🔭 I’m currently working on "front-end web development" field with "html-css-js"
 * 🌱 I’m currently learning "react"
-* 📫 You can contact me from instagram.com/ulassacli
+* 📫 You can contact me from instagram.com/ulassacli or ulassacli@outlook.com
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
 
 * Studying for a non tech-field degree and still perfectly fine to create or manipulate the digital world, as it should be. It's all about what you want, all about your mindset, focus, commitment. Not about your personal status, degree, field, age or anything like that and i'm here to prove that
