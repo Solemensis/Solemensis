@@ -1,6 +1,6 @@
 # --- Hi
 * 🔭 I’m currently working on "front-end web development" field with "html-css-js"
-* 🌱 I’m currently learning "react"
+* 🌱 I’m currently learning "vue.js - react.js"
 * 📫 You can contact me from my [instagram account](https://www.instagram.com/ulassacli/) or ulassacli@outlook.com (if both, i prefer instagram)
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/ (loading times and SEO will be better in time)
 
