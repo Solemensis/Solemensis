@@ -1,4 +1,4 @@
-# Hello from Istanbul
+# Hi
 * 🔭 I’m currently improving myself on "front-end web development" and "ui-ux" fields with "vue.js"
 * 📫 You can contact me from ulassacli@outlook.com
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
