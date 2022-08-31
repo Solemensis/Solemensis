@@ -1,11 +1,7 @@
-# --- Hi
-* 🔭 I’m currently working on "front-end web development" field with "vue.js"
+# Hello from Istanbul
+* 🔭 I’m currently improving myself on "front-end web development" field with "vue.js"
 * 📫 You can contact me from ulassacli@outlook.com
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
-
-* Studying for a non tech-field degree and still perfectly fine to create or manipulate the digital world, as it should be. It's all about what you want, all about your mindset, focus, commitment. Not about your personal status, degree, field, age or anything like that and i'm here to prove that
-* I always wanted to create the origin. Sometimes being copycat is okay but creativity is a must for me
-
 
 
 ## 🌐Socials
