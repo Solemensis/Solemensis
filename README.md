@@ -1,5 +1,5 @@
-# Hey,
-* 🔭 I’m currently improving myself in "front-end development" and "ui-ux" fields with "vue.js"
+# Who am i?
+* 🔭 An average vue.js enjoyer
 * 📫 You can contact me from ulassacli@outlook.com
 * ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
 
