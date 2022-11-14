@@ -1,7 +1,7 @@
 # I am...
 * 🔭 An average vue.js enjoyer
-* 📫 You can contact me from ulassacli@outlook.com
-* ⚡ My first personal project: https://solemensis.github.io/Woodhelm/
+* 📫 You can contact me from solewaits@outlook.com
+* ⚡ My portfolio website: https://portfolio-sole-ochre-pi.vercel.app/
 
 
 ## 🌐Socials
