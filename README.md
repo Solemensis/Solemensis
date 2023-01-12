@@ -1,4 +1,4 @@
-# I am...
+# a Nuxt Full Stack Developer
 * 🔭 An average vue.js enjoyer
 * 📫 You can contact me from solewaits@outlook.com
 * ⚡ My portfolio website ➜ https://portfolio-sole-ochre-pi.vercel.app/
