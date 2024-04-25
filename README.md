@@ -1,7 +1,7 @@
 # Nuxt Full Stack Developer - Cocos Mobile Game Developer
 * 🔭 My primary tech stack is nuxt & mongo for web, and cocos creator for mobile game development.
 * 📫 You can contact me from ulassacli@outlook.com
-* ⚡ My portfolio website https://portfolio-sole-ochre-pi.vercel.app/
+* ⚡ My portfolio website https://sole-web.site/
 
 
 ## 🌐Socials
