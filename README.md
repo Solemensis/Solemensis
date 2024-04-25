@@ -1,4 +1,4 @@
-# a Nuxt Full Stack Developer
+# Nuxt Full Stack Developer - Cocos Mobile Game Developer
 * 🔭 An average vue.js enjoyer
 * 📫 You can contact me from ulassacli@outlook.com
 * ⚡ My portfolio website https://portfolio-sole-ochre-pi.vercel.app/
