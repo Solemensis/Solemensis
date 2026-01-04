@@ -1,5 +1,5 @@
-# Nuxt Full Stack Developer - Js Game Dev
-* 🔭 My primary tech stack is nuxt & mongo for web, and js+vue for game development.
+# Vue/Nuxt Full Stack Developer - Js. Game Dev
+* 🔭 My primary tech stack is nuxt+mongo for the web, and js for game development.
 * 📫 You can contact me from ulassacli@outlook.com
 * ⚡ My portfolio website https://portfolio-sole-ochre-pi.vercel.app/
 
